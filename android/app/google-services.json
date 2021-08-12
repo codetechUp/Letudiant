@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "998514498984",
+    "project_id": "etudiant-3a58e",
+    "storage_bucket": "etudiant-3a58e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998514498984:android:82bfbaae46e8c98b1d119d",
+        "android_client_info": {
+          "package_name": "com.flutterflow.etudiant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998514498984-0gt990ckm3tv74jrjcinuvp90mfrbkr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1DJylE4TE0YOrrc74jibOzsR1OAga63Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998514498984-0gt990ckm3tv74jrjcinuvp90mfrbkr3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "998514498984-3i2gmrp8jjhnblbgesqrmv4403dtbhb0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.etudiant"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
